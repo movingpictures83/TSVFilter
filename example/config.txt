@@ -1,0 +1,2 @@
+Prefix plugins/TSVFilter/example
+Plugin TSVFilter inputfile parameters.txt outputfile normalized.tsv
